@@ -131,12 +131,12 @@ Developed two interactive Power BI dashboards:
 
 ### 🔹 Drinking Water Quality Dashboard
 <p align="center">
-  <img src="images/drinking_water_dashboard.png" width="800"/>
+  <img src="drinking_water_dashboard.png" width="800"/>
 </p>
 
 ### 🔹 Irrigation Water Quality Dashboard
 <p align="center">
-  <img src="images/irrigation_water_dashboard.png" width="800"/>
+  <img src="irrigation_water_dashboard.png" width="800"/>
 </p>
 
 ---
